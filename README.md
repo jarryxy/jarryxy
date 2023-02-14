@@ -1,10 +1,33 @@
-# Hi 🎉 Welcome to Jarryxy's Github Homepage!
+<h2 align="center">Hi 🎉 Welcome to Jarryxy's Github Homepage! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<img align="right" src="https://count.getloli.com/get/@:jarryxy?theme=rule34">
 
-## 程序员-Jarryxy
+<p align="center">
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Vue-563D7C?style=flat-square&logo=vue"/>
+<img src="https://img.shields.io/badge/-K8s-430098?style=flat-square&logo=k8s"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+</p>
 
-热爱技术。
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jarryxy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
+
 
 
 ## Follow Me
@@ -13,7 +36,7 @@
 [![Github](https://img.shields.io/github/followers/jarryxy?label=Github&style=social)](https://github.com/jarryxy)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/jarryxy)
 
-## 最新笔记
+## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [使用jenkins同步git仓库](https://www.yuencode.cn/2023/01/26/%E4%BD%BF%E7%94%A8jenkins%E5%90%8C%E6%AD%A5git%E4%BB%93%E5%BA%93/)
@@ -31,13 +54,13 @@
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=jarryxy&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
-## 开源项目
+## Open source
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jarryxy&show_icons=true&count_private=true&theme=vue" align="right" />
 
-[cw-ui组件库](https://github.com/jarryxy/cw-ui)
+- [cw-ui组件库](https://github.com/jarryxy/cw-ui)
 
-[idcard-orc证件识别](https://github.com/jarryxy/idcard-orc)
+- [idcard-orc证件识别](https://github.com/jarryxy/idcard-orc)
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -70,3 +93,8 @@ HTML                     1 repo              ███░░░░░░░░�
 
  Last Updated on 14/02/2023 08:58:15 UTC
 <!--END_SECTION:waka-->
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jarryxy&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jarryxy&theme=radical">
+</p>
