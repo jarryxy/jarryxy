@@ -16,6 +16,16 @@
 ## 最新笔记
 
 <!-- BLOG-POST-LIST:START -->
+- [使用jenkins同步git仓库](https://www.yuencode.cn/2023/01/26/%E4%BD%BF%E7%94%A8jenkins%E5%90%8C%E6%AD%A5git%E4%BB%93%E5%BA%93/)
+- [vue项目刷新当前页面的三种方法](https://www.yuencode.cn/2023/01/11/vue%E9%A1%B9%E7%9B%AE%E5%88%B7%E6%96%B0%E5%BD%93%E5%89%8D%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/)
+- [接口加解密时LocalDateTime序列化报错](https://www.yuencode.cn/2023/01/06/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E6%97%B6LocalDateTime%E5%BA%8F%E5%88%97%E5%8C%96%E6%8A%A5%E9%94%99/)
+- [vue项目中无法使用nodejs内置模块](https://www.yuencode.cn/2023/01/06/vue%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8nodejs%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97/)
+- [axios拦截器中获取不到自定义的响应头](https://www.yuencode.cn/2023/01/06/axios%E6%8B%A6%E6%88%AA%E5%99%A8%E4%B8%AD%E8%8E%B7%E5%8F%96%E4%B8%8D%E5%88%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%93%8D%E5%BA%94%E5%A4%B4/)
+- [yum安装jdk和JAVA_HOME的设置](https://www.yuencode.cn/2023/01/03/yum%E5%AE%89%E8%A3%85jdk%E5%92%8CJAVA-HOME%E7%9A%84%E8%AE%BE%E7%BD%AE/)
+- [Linux Centos 8 环境下安装nvm](https://www.yuencode.cn/2023/01/03/Linux-Centos-8-%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85nvm/)
+- [gogs迁移服务器记录](https://www.yuencode.cn/2023/01/03/gogs%E8%BF%81%E7%A7%BB%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%B0%E5%BD%95/)
+- [+new Date&lpar;&rpar;的含义](https://www.yuencode.cn/2023/01/02/new-Date-%E7%9A%84%E5%90%AB%E4%B9%89/)
+- [ruoyi系统权限漏洞](https://www.yuencode.cn/2023/01/02/ruoyi%E7%B3%BB%E7%BB%9F%E6%9D%83%E9%99%90%E6%BC%8F%E6%B4%9E/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Infos
