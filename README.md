@@ -15,8 +15,8 @@
 
 ## 最新笔记
 
-< !-- BLOG-POST-LIST:START -->
-< !-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=jarryxy&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
