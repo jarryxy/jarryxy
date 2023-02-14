@@ -63,7 +63,7 @@
 
 ## Open source
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jarryxy&show_icons=true&count_private=true&theme=vue" align="right" />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jarryxy&theme=radical" align="right" />
 
 - [cw-ui组件库](https://github.com/jarryxy/cw-ui)
 
@@ -103,5 +103,4 @@ HTML                     1 repo              ███░░░░░░░░�
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jarryxy&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jarryxy&theme=radical">
 </p>
