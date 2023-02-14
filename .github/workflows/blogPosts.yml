@@ -11,8 +11,10 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://www.yuencode.cn/atom.xml"
