@@ -30,4 +30,33 @@
 [idcard-orc证件识别](https://github.com/jarryxy/idcard-orc)
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 50 Contributions in the Year 2023
+ > 
+> 📦 4.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in Vue** 
+
+```text
+Vue                      3 repos             ██████████░░░░░░░░░░░░░░░   42.86 % 
+Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jarryxy/jarryxy/master/charts/bar_graph.png) 
+
+
+ Last Updated on 14/02/2023 08:58:15 UTC
 <!--END_SECTION:waka-->
