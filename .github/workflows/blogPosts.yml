@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://www.yuencode.cn/atom.xml"
           max_post_count: "10"
+          gh_token: ${GH_TOKEN}
