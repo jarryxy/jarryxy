@@ -82,6 +82,17 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Vue** 
 
 ```text
@@ -98,7 +109,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jarryxy/jarryxy/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 18:41:40 UTC
+ Last Updated on 15/02/2023 18:42:38 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
