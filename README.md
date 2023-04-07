@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 14.8 kB Used in GitHub's Storage 
+> 📦 14.7 kB Used in GitHub's Storage 
  > 
 > 🏆 63 Contributions in the Year 2023
  > 
@@ -109,7 +109,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2023 18:36:26 UTC
+ Last Updated on 07/04/2023 18:36:10 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
