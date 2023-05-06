@@ -72,13 +72,13 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 14.8 kB Used in GitHub's Storage 
+> 📦 15.0 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2023
+> 🏆 79 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -95,11 +95,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
-Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -109,7 +109,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2023 18:35:53 UTC
+ Last Updated on 06/05/2023 18:36:07 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
