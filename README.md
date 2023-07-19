@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 15.1 kB Used in GitHub's Storage 
+> 📦 15.0 kB Used in GitHub's Storage 
  > 
 > 🏆 94 Contributions in the Year 2023
  > 
@@ -109,7 +109,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2023 18:38:41 UTC
+ Last Updated on 19/07/2023 18:36:37 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
