@@ -74,6 +74,8 @@
 
 > 📦 15.1 kB Used in GitHub's Storage 
  > 
+> 🏆 96 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -107,7 +109,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2023 18:33:50 UTC
+ Last Updated on 27/10/2023 18:34:02 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
