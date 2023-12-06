@@ -82,16 +82,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -109,7 +99,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:34:35 UTC
+ Last Updated on 06/12/2023 18:34:48 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
