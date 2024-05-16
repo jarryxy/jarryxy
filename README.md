@@ -74,8 +74,6 @@
 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -98,7 +96,7 @@ No Activity Tracked This Week
 Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
 Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
@@ -109,7 +107,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2024 18:34:46 UTC
+ Last Updated on 16/05/2024 18:34:43 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
