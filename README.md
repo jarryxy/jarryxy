@@ -74,14 +74,22 @@
 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -99,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:34:55 UTC
+ Last Updated on 16/06/2024 18:34:59 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
