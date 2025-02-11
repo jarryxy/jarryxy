@@ -74,8 +74,6 @@
 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -109,7 +107,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2025 18:38:03 UTC
+ Last Updated on 11/02/2025 18:37:38 UTC
 <!--END_SECTION:waka-->
 
 <p align = "center">
