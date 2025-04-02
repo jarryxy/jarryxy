@@ -3,8 +3,8 @@ name: Blog Posts
 on:
   # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
-    - cron: '35 * * * *'
+    # Runs every day, on 12:35
+    - cron: '35 12 * * *'
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
