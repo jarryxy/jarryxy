@@ -1,49 +1,30 @@
 <p align="right">
-<img src="https://count.getloli.com/get/@:jarryxy?theme=rule34" />
+<img src="https://count.getloli.com/get/@:jarryxy?theme=sketch-2" />
 </p>
 
-<h2 align="center">Hi 🎉 Welcome to Jarryxy's Github Homepage! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+<h2 align="center">Hi 🎉 欢迎访问~ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">保持热爱就好了！</p>
 
 <p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">技术栈 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Vue-563D7C?style=flat-square&logo=vue"/>
-<img src="https://img.shields.io/badge/-K8s-430098?style=flat-square&logo=k8s"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-K8s-430098?style=flat-square&logo=k8s"/>
 </p>
 
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jarryxy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
-
-
-
-## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=jarryxy&color=green)
+## 联系我
 [![个人博客](https://img.shields.io/badge/-个人博客（yuencode.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.yuencode.cn/)
 [![Github](https://img.shields.io/github/followers/jarryxy?label=Github&style=social)](https://github.com/jarryxy)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/jarryxy)
 
-## Latest blogs
+## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
 - [CentOS系统将home目录合并到根目录](https://www.yuencode.cn/2024/01/02/CentOS%E7%B3%BB%E7%BB%9F%E5%B0%86home%E7%9B%AE%E5%BD%95%E5%90%88%E5%B9%B6%E5%88%B0%E6%A0%B9%E7%9B%AE%E5%BD%95/)
@@ -58,60 +39,10 @@
 - [+new Date&lpar;&rpar;的含义](https://www.yuencode.cn/2023/01/02/new-Date-%E7%9A%84%E5%90%AB%E4%B9%89/)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=jarryxy&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-## Open source
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jarryxy&theme=radical" align="right" />
+## 开源
 
 - [cw-ui组件库](https://github.com/jarryxy/cw-ui)
 
-- [idcard-orc证件识别](https://github.com/jarryxy/idcard-orc)
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 15.3 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
+- [keepalived-windows](https://github.com/jarryxy/keepalived-windows)
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/jarryxy/jarryxy/master/assets/bar_graph.png)
-
-
- Last Updated on 08/04/2025 05:21:34 UTC
-<!--END_SECTION:waka-->
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jarryxy&show_icons=true&theme=tokyonight&line_height=27">
-</p>
