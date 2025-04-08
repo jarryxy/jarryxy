@@ -27,16 +27,16 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [ubuntu离线安装deb](https://www.yuencode.cn/2024/12/26/ubuntu%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85deb/)
+- [K8s高可用集群搭建](https://www.yuencode.cn/2024/04/26/k8s%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/)
+- [ubuntu命令行开启远程桌面](https://www.yuencode.cn/2024/03/12/ubuntu%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%BC%80%E5%90%AF%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/)
+- [windows端口被占用](https://www.yuencode.cn/2024/02/03/windows%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8/)
+- [windows安装postgres](https://www.yuencode.cn/2024/01/13/postgres%E5%AE%89%E8%A3%85/)
+- [centos安装docker](https://www.yuencode.cn/2024/01/12/centos%E5%AE%89%E8%A3%85docker/)
+- [gogs迁移至gitlab](https://www.yuencode.cn/2024/01/10/gogs%E8%BF%81%E7%A7%BB%E8%87%B3gitlab/)
+- [gitlab-ce安装](https://www.yuencode.cn/2024/01/09/gitlab-ce%E5%AE%89%E8%A3%85/)
+- [vue3给动态渲染的组件添加ref](https://www.yuencode.cn/2024/01/04/vue3%E7%BB%99%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93%E7%9A%84%E7%BB%84%E4%BB%B6%E6%B7%BB%E5%8A%A0ref/)
 - [CentOS系统将home目录合并到根目录](https://www.yuencode.cn/2024/01/02/CentOS%E7%B3%BB%E7%BB%9F%E5%B0%86home%E7%9B%AE%E5%BD%95%E5%90%88%E5%B9%B6%E5%88%B0%E6%A0%B9%E7%9B%AE%E5%BD%95/)
-- [使用jenkins同步git仓库](https://www.yuencode.cn/2023/01/26/%E4%BD%BF%E7%94%A8jenkins%E5%90%8C%E6%AD%A5git%E4%BB%93%E5%BA%93/)
-- [vue项目刷新当前页面的三种方法](https://www.yuencode.cn/2023/01/11/vue%E9%A1%B9%E7%9B%AE%E5%88%B7%E6%96%B0%E5%BD%93%E5%89%8D%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/)
-- [接口加解密时LocalDateTime序列化报错](https://www.yuencode.cn/2023/01/06/%E6%8E%A5%E5%8F%A3%E5%8A%A0%E8%A7%A3%E5%AF%86%E6%97%B6LocalDateTime%E5%BA%8F%E5%88%97%E5%8C%96%E6%8A%A5%E9%94%99/)
-- [vue项目中无法使用nodejs内置模块](https://www.yuencode.cn/2023/01/06/vue%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8nodejs%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97/)
-- [axios拦截器中获取不到自定义的响应头](https://www.yuencode.cn/2023/01/06/axios%E6%8B%A6%E6%88%AA%E5%99%A8%E4%B8%AD%E8%8E%B7%E5%8F%96%E4%B8%8D%E5%88%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%93%8D%E5%BA%94%E5%A4%B4/)
-- [yum安装jdk和JAVA_HOME的设置](https://www.yuencode.cn/2023/01/03/yum%E5%AE%89%E8%A3%85jdk%E5%92%8CJAVA-HOME%E7%9A%84%E8%AE%BE%E7%BD%AE/)
-- [Linux Centos 8 环境下安装nvm](https://www.yuencode.cn/2023/01/03/Linux-Centos-8-%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85nvm/)
-- [gogs迁移服务器记录](https://www.yuencode.cn/2023/01/03/gogs%E8%BF%81%E7%A7%BB%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%B0%E5%BD%95/)
-- [+new Date&lpar;&rpar;的含义](https://www.yuencode.cn/2023/01/02/new-Date-%E7%9A%84%E5%90%AB%E4%B9%89/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 开源
