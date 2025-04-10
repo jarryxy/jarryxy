@@ -19,12 +19,19 @@
 </p>
 
 
-## 联系我
+## 🌵联系我
+
 [![个人博客](https://img.shields.io/badge/-个人博客（yuencode.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.yuencode.cn/)
 [![Github](https://img.shields.io/github/followers/jarryxy?label=Github&style=social)](https://github.com/jarryxy)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/jarryxy)
 
-## 最新博客文章
+## 🌈开源项目
+
+- [flowlong-plus](https://github.com/flowlong-plus/flowlong-plus)
+- [keepalived-windows](https://github.com/jarryxy/keepalived-windows)
+- [cw-ui](https://github.com/jarryxy/cw-ui)
+
+## 🌟最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
 - [ubuntu离线安装deb](https://www.yuencode.cn/2024/12/26/ubuntu%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85deb/)
@@ -39,10 +46,5 @@
 - [CentOS系统将home目录合并到根目录](https://www.yuencode.cn/2024/01/02/CentOS%E7%B3%BB%E7%BB%9F%E5%B0%86home%E7%9B%AE%E5%BD%95%E5%90%88%E5%B9%B6%E5%88%B0%E6%A0%B9%E7%9B%AE%E5%BD%95/)
 <!-- BLOG-POST-LIST:END -->
 
-## 开源
-
-- [cw-ui组件库](https://github.com/jarryxy/cw-ui)
-
-- [keepalived-windows](https://github.com/jarryxy/keepalived-windows)
 
 
