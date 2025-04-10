@@ -22,8 +22,7 @@
 ## 🌵联系我
 
 [![个人博客](https://img.shields.io/badge/-个人博客（yuencode.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://www.yuencode.cn/)
-[![Github](https://img.shields.io/github/followers/jarryxy?label=Github&style=social)](https://github.com/jarryxy)
-[![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/jarryxy)
+[![Gitee](https://img.shields.io/badge/-码云https://gitee.com/jarryxy-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/jarryxy)
 
 ## 🌈开源项目
 
